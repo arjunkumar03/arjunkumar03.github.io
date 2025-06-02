@@ -1,0 +1,116 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV_Arjunkumar_S.pdf",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I am a <span class='underline'>web developer</span> passionate about building scalable and dynamic web applications. I specialize in <span class='underline'>Angular</span>, <span class='underline'>TypeScript</span>, and <span class='underline'>JavaScript</span> to create responsive, modular front-end solutions. Alongside development, I have a strong interest in data analysis using <span class='underline'>Python</span> and analytical tools. I enjoy turning complex problems into clean, maintainable code with a focus on user experience. I’m currently looking for opportunities to contribute to innovative projects in web development and data analytics.",
+  "Banner.ActionBtn": "Say Hi",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "I am a <span class='underline'>web developer</span> passionate about building scalable and dynamic web applications. I specialize in <span class='underline'>Angular</span>, <span class='underline'>TypeScript</span>, and <span class='underline'>JavaScript</span> to create responsive, modular front-end solutions.",
+    "Alongside development, I have a strong interest in data analysis using <span class='underline'>Python</span> and analytical tools. I enjoy turning complex problems into clean, maintainable code with a focus on user experience.",
+    "I’m currently looking for opportunities to contribute to innovative projects in web development and data analytics.",
+    "Some of the technologies I have trained and worked with include (but are not limited to):"
+  ],
+
+  "Experience.Title": "Education",
+"Experience.Jobs": [
+  {
+    "Tab": "B.Tech IT",
+    "Title": "Rajalakshmi Engineering College, Chennai",
+    "Date": "Aug 2021 – Present",
+    "Description": [
+      "Pursuing Bachelor's degree with a focus on core concepts of web development, data structures, and programming.",
+      "Involved in academic projects related to software development and data analysis.",
+      "Developed practical skills in frontend and backend technologies through coursework and self-initiated projects."
+    ]
+  },
+  {
+    "Tab": "HSC",
+    "Title": "SRVS National Higher Secondary School, Karaikal",
+    "Date": "Apr 2019 – Jun 2021",
+    "Description": [
+      "Completed Higher Secondary Education with major subjects in Computer Science, Mathematics, and Physics.",
+      "Participated in technical symposiums and school-level coding events."
+    ]
+  },
+  {
+    "Tab": "SSLC",
+    "Title": "SRVS National Higher Secondary School, Karaikal",
+    "Date": "Apr 2018 – Mar 2019",
+    "Description": [
+      "Completed foundational education with focus on science and mathematics.",
+      "Scored top marks in Computer Applications and Mathematics."
+    ]
+  }
+]
+,
+
+  "FeatureProjects.Title": "My Projects",
+  "FeatureProjects.Label": "",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Smart Payment Gateway System (Bluetooth & NFC-Based)",
+      "Description": "A secure contactless payment system developed using only <span class='underline'>Bluetooth</span> and <span class='underline'>NFC</span> technologies integrated into embedded hardware. Users can initiate and complete transactions by simply tapping or bringing their NFC-enabled card or device near the terminal. Bluetooth handles secure device pairing and communication, while NFC ensures fast, proximity-based transaction initiation. Designed for offline environments, this system emphasizes speed, safety, and low-power operation without relying on internet connectivity.",
+      "imgs": [],
+      "Technologies": ["Bluetooth", "NFC", "Embedded Systems"]
+    },
+    {
+      "Title": "eCommerce Website",
+      "Description": "A fully responsive eCommerce platform developed from scratch, featuring dynamic product listings, an interactive shopping cart, and client-side validation to enhance user experience. The website provides a seamless shopping flow with intuitive navigation and clean design, optimized for both desktop and mobile devices.",
+      "imgs": [],
+      "Technologies": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "Title": "Car Price Prediction Model",
+      "Description": "This project involves building a machine learning model to predict the resale price of cars based on features such as brand, year of manufacture, and mileage. I performed thorough data preprocessing and feature engineering to clean and prepare the dataset. Using regression algorithms from Scikit-learn, the model learns from historical data to provide accurate price estimates. This tool aims to assist buyers and sellers by offering data-driven insights into fair car pricing, demonstrating practical applications of machine learning in the automotive market.",
+      "imgs": [],
+      "Technologies": ["Python", "Machine Learning", "Pandas", "Scikit-learn"]
+    },
+    {
+      "Title": "Weather App",
+      "Description": "Developed a responsive Weather App that allows users to search for real-time weather information by entering a city name. The app features a clean and intuitive design built with HTML and CSS, while JavaScript handles fetching and displaying live data from a public weather API. Key information such as temperature, humidity, wind speed, and weather conditions are dynamically updated. The application includes error handling for invalid inputs, ensuring a seamless and user-friendly experience across all devices.",
+      "imgs": [],
+      "Technologies": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+
+  "OtherProjects.Title": "Internships",
+"OtherProjects.Projects": [
+  {
+    "Title": "Web Development",
+    "Description": "Vlog Innovations LTD. (LP), Chennai — May 2023 – Jul 2023",
+    "imgs": [],
+    "ghLink": "",
+    "demoLink": "",
+    "Technologies": ["Web Development", "Design", "Internship"],
+    "Bullets": [
+      "Gained new technological skills to advance my career during the internship.",
+      "Improved web development and design skills through real-world application and mentorship."
+    ]
+  },
+  {
+    "Title": "Full Stack Development",
+    "Description": "Industry Institute Interaction Cell (IIIC), Remote — Jan 2023",
+    "imgs": [],
+    "ghLink": "",
+    "demoLink": "",
+    "Technologies": ["Full Stack Development", "Remote Internship"],
+    "Bullets": [
+      "Completed a 2-week virtual internship organized by IIIC.",
+      "Enhanced skills in full stack development through guided practice and training modules."
+    ]
+  }
+],
+
+
+  "Contact.Pretitle": "And... Now?",
+  "Contact.Title": "Say Hi!",
+  "Contact.Content": "I will be glad to hear from you if you want to discuss new opportunities. Write to me, and I will respond as soon as I see your message.",
+  "Contact.Btn": "Contact Me"
+}

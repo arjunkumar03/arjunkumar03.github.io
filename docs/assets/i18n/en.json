@@ -12,7 +12,7 @@
 
   "AboutMe.Title": "About Me",
   "AboutMe.Paragraphs": [
-    "I am a <span class='underline'>web developer</span> passionate about building scalable and dynamic web applications. I specialize in <span class='underline'>Angular</span>, <span class='underline'>TypeScript</span>, and <span class='underline'>JavaScript</span> to create responsive, modular front-end solutions.",
+    "I'm a <span class='underline'>web developer</span> passionate about building scalable and dynamic web applications. I specialize in <span class='underline'>Angular</span>, <span class='underline'>TypeScript</span>, and <span class='underline'>JavaScript</span> to create responsive, modular front-end solutions.",
     "Alongside development, I have a strong interest in data analysis using <span class='underline'>Python</span> and analytical tools. I enjoy turning complex problems into clean, maintainable code with a focus on user experience.",
     "I’m currently looking for opportunities to contribute to innovative projects in web development and data analytics.",
     "Some of the technologies I have trained and worked with include (but are not limited to):"

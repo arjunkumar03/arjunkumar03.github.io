@@ -1,6 +1,6 @@
 {
   "Header.Item1": "About Me",
-  "Header.Item2": "Experience",
+  "Header.Item2": "Education",
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
   "Header.cvBtn": "Resume",
@@ -19,38 +19,36 @@
   ],
 
   "Experience.Title": "Education",
-"Experience.Jobs": [
-  {
-    "Tab": "B.Tech IT",
-    "Title": "Rajalakshmi Engineering College, Chennai",
-    "Date": "Aug 2021 – Present",
-    "Description": [
-      "Pursuing Bachelor's degree with a focus on core concepts of web development, data structures, and programming.",
-      "Involved in academic projects related to software development and data analysis.",
-      "Developed practical skills in frontend and backend technologies through coursework and self-initiated projects."
-    ]
-  },
-  {
-    "Tab": "HSC",
-    "Title": "SRVS National Higher Secondary School, Karaikal",
-    "Date": "Apr 2019 – Jun 2021",
-    "Description": [
-      "Completed Higher Secondary Education with major subjects in Computer Science, Mathematics, and Physics.",
-      "Participated in technical symposiums and school-level coding events."
-    ]
-  },
-  {
-    "Tab": "SSLC",
-    "Title": "SRVS National Higher Secondary School, Karaikal",
-    "Date": "Apr 2018 – Mar 2019",
-    "Description": [
-      "Completed foundational education with focus on science and mathematics.",
-      "Scored top marks in Computer Applications and Mathematics."
-    ]
-  }
-]
-,
-
+  "Experience.Jobs": [
+    {
+      "Tab": "B.Tech IT",
+      "Title": "Rajalakshmi Engineering College, Chennai",
+      "Date": "Aug 2021 – Present",
+      "Description": [
+        "Pursuing Bachelor's degree with a focus on core concepts of web development, data structures, and programming.",
+        "Involved in academic projects related to software development and data analysis.",
+        "Developed practical skills in frontend and backend technologies through coursework and self-initiated projects."
+      ]
+    },
+    {
+      "Tab": "HSC",
+      "Title": "SRVS National Higher Secondary School, Karaikal",
+      "Date": "Apr 2019 – Jun 2021",
+      "Description": [
+        "Completed Higher Secondary Education with major subjects in Computer Science, Mathematics, and Physics.",
+        "Participated in technical symposiums and school-level coding events."
+      ]
+    },
+    {
+      "Tab": "SSLC",
+      "Title": "SRVS National Higher Secondary School, Karaikal",
+      "Date": "Apr 2018 – Mar 2019",
+      "Description": [
+        "Completed foundational education with focus on science and mathematics.",
+        "Scored top marks in Computer Applications and Mathematics."
+      ]
+    }
+  ],
   "FeatureProjects.Title": "My Projects",
   "FeatureProjects.Label": "",
   "FeatureProjects.Projects": [
@@ -81,33 +79,32 @@
   ],
 
   "OtherProjects.Title": "Internships",
-"OtherProjects.Projects": [
-  {
-    "Title": "Web Development",
-    "Description": "Vlog Innovations LTD. (LP), Chennai — May 2023 – Jul 2023",
-    "imgs": [],
-    "ghLink": "",
-    "demoLink": "",
-    "Technologies": ["Web Development", "Design", "Internship"],
-    "Bullets": [
-      "Gained new technological skills to advance my career during the internship.",
-      "Improved web development and design skills through real-world application and mentorship."
-    ]
-  },
-  {
-    "Title": "Full Stack Development",
-    "Description": "Industry Institute Interaction Cell (IIIC), Remote — Jan 2023",
-    "imgs": [],
-    "ghLink": "",
-    "demoLink": "",
-    "Technologies": ["Full Stack Development", "Remote Internship"],
-    "Bullets": [
-      "Completed a 2-week virtual internship organized by IIIC.",
-      "Enhanced skills in full stack development through guided practice and training modules."
-    ]
-  }
-],
-
+  "OtherProjects.Projects": [
+    {
+      "Title": "Web Development",
+      "Description": "Vlog Innovations LTD. (LP), Chennai — May 2023 – Jul 2023",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": ["Web Development", "Design", "Internship"],
+      "Bullets": [
+        "Gained new technological skills to advance my career during the internship.",
+        "Improved web development and design skills through real-world application and mentorship."
+      ]
+    },
+    {
+      "Title": "Full Stack Development",
+      "Description": "Industry Institute Interaction Cell (IIIC), Remote — Jan 2023",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": ["Full Stack Development", "Remote Internship"],
+      "Bullets": [
+        "Completed a 2-week virtual internship organized by IIIC.",
+        "Enhanced skills in full stack development through guided practice and training modules."
+      ]
+    }
+  ],
 
   "Contact.Pretitle": "And... Now?",
   "Contact.Title": "Say Hi!",
